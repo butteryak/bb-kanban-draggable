@@ -2,8 +2,8 @@
   "type": "component",
   "metadata": {},
   "schema": {
-    "name": "bb-kanban-draggable",
-    "friendlyName": "Kanban",
+    "name": "by-kanban-draggable",
+    "friendlyName": "Kanban-by",
     "description": "Dragable Kanban cards area allowing for status changes.",
     "icon": "ViewColumn",
     "draggable": false,
